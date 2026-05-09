@@ -1,5 +1,5 @@
--- Nama : muhamad restu al fazhuri 
--- Nim : 24241070
+-- Nama : Ratih Purnamasari
+-- Nim : 24241039
 -- Kelas : B
 
 Show databases;
